@@ -1,0 +1,57 @@
+body{
+	background: url("../images/nflteams.jpg");
+}
+
+#main-section {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	padding-top: 50px;
+	padding-bottom:30px;
+	background: #0099cc;
+	text-align: center;
+	font-family: "Georgia", Times, Arial, sans-serif;
+	border: 5px solid #ddd;
+	font-size: 15px;
+}
+
+h1{
+	font-family: 'Orbitron', Helvetica, Arial, sans-serif;
+	font-size: 75px;
+}
+h2,{
+}
+h3{
+	
+}
+h4{
+	color: #C0C0C0;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 10px;
+}
+#begin{
+	color: #fff;
+	border: 2px solid 	#000000;
+	border-radius: 50%;
+	font-size: 24px;
+	padding: 8px;
+	background-color: #8B4513;
+}
+#begin:hover{
+	cursor: pointer;
+	background-color: #A0522D;
+}
+#end{
+	color: #0099cc;
+	border: 2px solid 	#000000;
+	border-radius: 12px;
+	font-size: 35px;
+	padding: 6px 6px;
+	background-color: #000000;
+	margin-top: 25px;
+}
+#end:hover{
+	outline: 5px solid #000000;
+	outline-offset: 3px;
+	cursor: pointer;
+}
